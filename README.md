@@ -13,7 +13,7 @@ Le due specie animali si differenziano per il meccanismo riproduttivo: o si acco
 
 Le regole che gli animali devono rispettare sono le seguenti:
 
-Si spostano di una casella per volta.
+<b>Si spostano di una casella per volta.
 
 Quando si spostano su una cella con un alimento, lo mangiano e aumentano la loro capacità di spostarsi (cioè la loro vita) di due unità. 
 
@@ -27,6 +27,6 @@ Un animale in grado di clonarsi, se ha più di 20 spostamenti si clona e la sua 
 
 Un animale in grado di accopiarsi, se ha più di 5 spostamenti e meno di 20, si può accoppiare con un altro individuo vicino (cella adiacente).
 
-Se un animale ha 0 spostamenti muore.
+Se un animale ha 0 spostamenti muore.</b>
 
 Scrivere un programma che, distribuiti un certo numero di individui e alimenti casualmente sulla griglia, produca il numero e il tipo degli individui dopo un certo numero di spostamenti.
