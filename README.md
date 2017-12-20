@@ -2,6 +2,7 @@
 University project
 
 DRAFT
+
 Si vuole realizzare un gioco simile al Gioco della vita.
 
 Il gioco si svolge su una griglia bidimensionale in cui vi sono animali di due specie differenti e alimenti di un solo tipo. Una cella può contenere un solo animale o un solo alimento.
